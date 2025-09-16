@@ -1,5 +1,8 @@
-# python3 repo to support refresher
+# python3 repo to Learning Python with Jupyter
 
-Assumes a virtual environment populated with jupyter
+##### Assumes a virtual environment populated with jupyter
 
-> jupyter lab
+##### jupyter lab
+<hr>
+
+##### Learn python 3 incrementally by starting with lession-01
