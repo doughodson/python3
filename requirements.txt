@@ -1,8 +1,13 @@
-# ignore this line
-numpy
+#
+# file format: https://pip.pypa.io/en/stable/reference/requirements-file-format/
+#
+numpy>=2.3.0
 pandas
 matplotlib
 seaborn
 folium
 geopy
-plotly
+#
+# install this particular version
+#
+plotly==5.22.0
